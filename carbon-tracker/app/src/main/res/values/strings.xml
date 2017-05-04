@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">CO2 Print</string>
+    <string name="CarMake">Make</string>
+    <string name="CarModel">Model</string>
+    <string name="CarYear">Year</string>
+    <string name="CarVehicleNickname">Vehicle Nickname: </string>
+    <string name="CarVehicleNicknameHint">Nickname</string>
+    <string name="CarHeader">Add a Car:</string>
+    <string name="CarSubmitButton">Submit</string>
+    <string name="AddRouteHeader">Add a Route</string>
+    <string name="AddRouteCityDistance">City Distance:</string>
+    <string name="AddRouteHighwayDistance">Highway Distance:</string>
+    <string name="AddRouteSubmitButton">Submit</string>
+    <string name="RouteName">Route Name:</string>
+    <string name="MainAddJourneyButton">Add Journey</string>
+    <string name="MainGoToGraphs">Go To FootPrint</string>
+    <string name="MainHeader">All Journeys</string>
+    <string name="SelectRouteHeader">Select Route:</string>
+    <string name="SelectRouteAddRouteButton">Add Route</string>
+    <string name="SelectTransportationHeader">Select Transportation Mode</string>
+    <string name="SelectVehicleHeader">Select Vehicle</string>
+    <string name="TransportationAddCarButton">Add Car</string>
+    <string name="Delete">Delete</string>
+    <string name="Edit">Edit</string>
+    <string name="DateFormat">MM/dd/yyyy</string>
+    <string name="DisplayDate">Date</string>
+    <string name="DisplayName">Route Name</string>
+    <string name="DisplayDistance">Distance(km)</string>
+    <string name="DisplayVehicle">Vehicle</string>
+    <string name="DisplayCO2">CO2 Emission</string>
+    <string name="ErrorMessage">Invalid Information Inputted. Please try again!</string>
+    <string name="carSpecifications">Specification</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="appName">CARBON TRACKER</string>
+    <string name="journeyList">Journey List</string>
+    <string name="routeList">Route List</string>
+    <string name="carList">Car List</string>
+    <string name="graph">View Graph</string>
+    <string name="ViewJourneys">View Journey</string>
+    <string name="viewUtility">View Utilities</string>
+    <string name="ViewGraph">View Graphs</string>
+    <string name="add_a_utility_bill">Add a Utility Bill:</string>
+    <string name="bus">Bus</string>
+    <string name="skytrain">Skytrain</string>
+    <string name="car">Car</string>
+    <string name="walk">Walk</string>
+    <string name="select_date">Select Date</string>
+    <string name="add_selected_date">Add Selected Date</string>
+    <string name="no_date_selected_yet">No date selected yet</string>
+    <string name="current_selected_date">Current Selected Date:</string>
+    <string name="tipsButton">New Tip</string>
+    <string name="natGas">Nat Gas</string>
+    <string name="elecHeader">Elec</string>
+    <string name="CO2EmissionsinKG">CO2 Emissions in kilograms</string>
+    <string name="NaturalGasString">Natural Gas</string>
+    <string name="ElecUsage">Electricity Usage</string>
+    <string name="UtilBillStrintg">Utility Bill</string>
+    <string name="next">Next</string>
+    <string name="viewGraph">View Graph</string>
+    <string name="carbonTracker">Carbon Tracker</string>
+    <string name="xAxisLabelForYearGraph"><![CDATA[Current Month -------->]]></string>
+    <string name="xAxisLabelForMonthGraph"><![CDATA["                             <----------------- Current Date"]]></string>
+    <string name="kgUnits">KG</string>
+    <string name="co2EmissionInKG">CO2 Emission (KG)</string>
+    <string name="targetCo2Emission">Target CO2 Emission</string>
+    <string name="avgCo2EmissionperDay">Avg Co2 Emision Per Day</string>
+    <string name="carIconText">Car Icon</string>
+    <string name="settingsChangeUnits">Change Carbon Emission Units</string>
+    <string name="SettingsButton">Settings</string>
+    <string name="CO2EmissionsInTD">CO2 Emissions in Tree-days</string>
+    <string name="barchartinfotext">Tap on the Month to view Details</string>
+    <string name="linkinhelppage" ><a href="https://www.sfu.ca/computing.html">Link</a></string>
+    <string name="aboutButton">About</string>
+    <string name="settings">Emission Unit Settings</string>
+
+
+</resources>

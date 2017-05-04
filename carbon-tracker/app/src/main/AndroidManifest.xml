@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="alex.carbon_tracker">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/carbontrackerlogo5"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.DarkActionBar">
+        <activity
+            android:name=".UI.JourneyListActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".UI.WelcomeScreenActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".UI.PieChartActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".UI.SelectVehicleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UI.AddCarActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UI.SelectRouteActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UI.AddRouteActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UI.DisplayCarbonFootPrintActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UI.EditCarActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UI.EditRouteActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UI.SelectTransportationModeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UI.SelectDateActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UI.MenuActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UI.UtilitylistActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UI.DateListActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UI.LineGraphActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UI.AddUtilityBillActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".UI.AddUtilityBillPart2"
+            android:screenOrientation="portrait" />
+        <activity android:name=".UI.PieGraphMonthYear"></activity>
+        <activity android:name=".UI.SettingsActivity" />
+        <activity android:name=".UI.HelpPageActivity"></activity>
+    </application>
+
+</manifest>
